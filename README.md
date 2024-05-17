@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theordius
 - 👀 I’m interested in iOS Development and programming.
-- 🌱 I’m currently learning to become more proficient with Swift
+- 🌱 I’m currently working as an iOS developer, trying to become more proficient with Swift every day
 - 💞️ I’m looking to collaborate on iOS Projects 
 - 📫 How to reach me ? You can contact me directly via GitHub or email
 
